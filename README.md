@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+大家好，我叫赖子炜，很高兴认识你们。在这里，我将学习计算机专业的有关课程，与你们共同讨论，如果我有不懂得地方，还望你们不吝赐教。
 <!--
 **lzw77/lzw77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
